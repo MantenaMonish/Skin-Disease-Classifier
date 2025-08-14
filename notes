@@ -1,0 +1,13 @@
+https://data.mendeley.com/datasets/3hckgznc67/1
+
+Skin Disease Classification Dataset
+Published: 30 July 2024
+|
+Version 1
+|
+DOI:
+10.17632/3hckgznc67.1
+Contributor:
+sharun akter khushbu
+Description
+The biggest contribution and most time-consuming task are preparing a self-collected dataset. However, there are several benefits in biomedical research, such as using newly identified skin images that other researchers have not used in their methodology. On the contrary, the most challenging aspect is that self-collected images are not preprocessed beforehand, making model training quite difficult. In regards to skin disease images, there are various internationally available collections of dermatological images, such as ISIC2019 and HAM10000, which are the two largest datasets for melanoma skin disease. These datasets cover several skin conditions, including actinic keratosis, basal cell carcinoma, benign keratosis, dermatofibroma, melanoma, melanocytic nevus, squamous cell carcinoma, and vascular lesions. However, we have collected images of a few skin diseases that rarely occur in the human body, such as acne, vitiligo, hyperpigmentation, nail psoriasis, and SJS-TEN. Our dataset consists of 5 categories of skin images, each with detailed depictions of skin sores and injuries in various ways. We collected a total of 9,548 dermatoscopic images from different hospitals and online resources of patients from different countries. This indicates that transfer learning can be used to detect all types of skin diseases. Specifically, we worked on the categories of acne (1148), vitiligo (2016), hyperpigmentation (700), nail-psoriasis (2520), and SJS-TEN (3164).
