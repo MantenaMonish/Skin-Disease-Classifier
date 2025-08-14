@@ -39,9 +39,7 @@ This dataset is publicly available and was contributed by **sharun akter khushbu
 
 ## 📊 Results and Analysis
 
-The primary experiment involved comparing the performance of the MobileNetV2 transfer learning model on the original dataset versus an enhanced (augmented) dataset. The results below show the validation accuracy and loss over 15 epochs.
-
-![Model Performance Graph](https://i.imgur.com/v8T8qfH.png)
+The primary experiment involved comparing the performance of the MobileNetV2 transfer learning model on the original dataset versus an enhanced (augmented) dataset. The results show the validation accuracy and loss over 15 epochs.
 
 **Key Observations:**
 
